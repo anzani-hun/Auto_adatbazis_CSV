@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_adatbazis_CSV-Console", "Auto_adatbazis_CSV-Console\Auto_adatbazis_CSV-Console.csproj", "{5B66B376-78CF-42F0-8792-8FB1F80C1D3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_adatbazis_CSV-WinForm", "Auto_adatbazis_CSV-WinForm\Auto_adatbazis_CSV-WinForm.csproj", "{8E588B02-4756-433B-B438-D2CE4C834DD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5B66B376-78CF-42F0-8792-8FB1F80C1D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B66B376-78CF-42F0-8792-8FB1F80C1D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B66B376-78CF-42F0-8792-8FB1F80C1D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E588B02-4756-433B-B438-D2CE4C834DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E588B02-4756-433B-B438-D2CE4C834DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E588B02-4756-433B-B438-D2CE4C834DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E588B02-4756-433B-B438-D2CE4C834DD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
