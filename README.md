@@ -2,4 +2,4 @@ FELADAT LEÍRÁSA:
 
 
 
-<img src="!futtatas-kep.PNG" alt="autok"/>
+<img src="!futtatas-kep-console.PNG" alt="autok"/>
